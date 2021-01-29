@@ -4,3 +4,4 @@ Home page is added
 Food items shown
 Picked items shown
 Bill is displayed
+Payment page
